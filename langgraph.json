@@ -1,0 +1,7 @@
+{
+    "dependencies": ["./creative_agent"],
+    "graphs": {
+      "agent": "./creative_agent/agent.py:creative_workflow"
+    },
+    "env": ".env"
+  }
